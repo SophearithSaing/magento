@@ -1,1 +1,2 @@
-/home/sophearithsaing/Code/magento/magento2-sample-data/README.md
+# Magento Test Project
+Project was generated using [create-magento-app](https://docs.create-magento-app.com/)
